@@ -1,6 +1,6 @@
 <h1 align="center">API Node - JavaScript</h1>
 
------------------------------
+
 <p align="center">
   <a href="#features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -31,4 +31,4 @@ This API was developed in order to implement Express together with MongoDb, usin
 ````
 
 
-Made with 💜 by Yago B. Fontoura and RocketSeat 👋🏼 See my  [![Linkedin Badge](https://img.shields.io/badge/-Yago%20Fontoura-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yago-fontoura/)](https://www.linkedin.com/in/yago-fontoura/)
+Made with 💜 by Yago B. Fontoura and RocketSeat 👋🏼 See my  [![Linkedin Badge](https://img.shields.io/badge/-Yago%20Fontoura-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yago-fontoura/)](https://www.linkedin.com/in/yago-fontoura/)
