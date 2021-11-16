@@ -25,10 +25,10 @@ This API was developed in order to implement Express together with MongoDb, usin
 
 - Clone the repository
 - Run `yarn` to download dependencies
-- Run `yarn typeorm migration: run` to create the database tables.
-- Run `yarn start` to start the app.
+- enter the mongo db database url as the file shows, .env.example, you can take the .example or create a new variables file.
+- Run `yarn dev` to start the app.
 
 ````
 
 
-Made with 💜 by Yago B. Fontoura and RocketSeat 👋🏼 See my <a href ="https://www.linkedin.com/in/yago-fontoura/">Linkedin</a> 
+Made with 💜 by Yago B. Fontoura and RocketSeat 👋🏼 See my  [![Linkedin Badge](https://img.shields.io/badge/-Yago%20Fontoura-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yago-fontoura/)](https://www.linkedin.com/in/yago-fontoura/)
