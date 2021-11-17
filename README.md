@@ -31,4 +31,8 @@ This API was developed in order to implement Express together with MongoDb, usin
 ````
 
 
-Made with 💜 by Yago B. Fontoura and RocketSeat 👋🏼 See my  [![Linkedin Badge](https://img.shields.io/badge/-Yago%20Fontoura-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yago-fontoura/)](https://www.linkedin.com/in/yago-fontoura/)
+Made with 💜 by Yago B. Fontoura and RocketSeat 👋🏼 See my<a href="https://www.linkedin.com/in/yago-fontoura/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/yago-fontoura/">
+    </a>
+
+
